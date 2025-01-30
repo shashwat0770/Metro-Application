@@ -1,4 +1,4 @@
-<h3>Welcome to the Metro Application project!</h3>
+<h2>Welcome to the Metro Application project!</h2>
 
 <h4>
   This application is designed to simulate a metro system using Java, incorporating various data structures and 
